@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "info-money",
+                "name": "InfoMoney"
+            },
+            "author": null,
+            "title": "Petrobras (PETR4), Vale (VALE3), 3R (RRRP3) e PetroRio (PRIO3) disparam com alta de commodities",
+            "description": "Acompanhe o que movimenta o mercado de ações, câmbio e commodities nos negócios do pregão desta segunda-feira (27)",
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27062022/",
+            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2986.jpg?quality=70",
+            "publishedAt": "2022-06-27T21:05:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "info-money",
+                "name": "InfoMoney"
+            },
+            "author": null,
+            "title": "Ibovespa fecha em alta de 2,12% e volta aos 100 mil pontos, puxado por commodities; dólar recua 0,35%",
+            "description": "Queda de casos da covid 19 na China leva a menores restrições na segunda maior economia do mundo e puxa commodities",
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-fecha-em-alta-de-212-e-volta-aos-100-mil-pontos-puxado-por-commodities-dolar-recua-035/",
+            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2777.jpg?quality=70",
+            "publishedAt": "2022-06-27T20:41:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "info-money",
+                "name": "InfoMoney"
+            },
+            "author": null,
+            "title": "Petrobras (PETR4): Itaú BBA reitera recomendação de compra e diz que pressão sobre política de preços já “alcançou pico”",
+            "description": "Companhia deve surfar ainda preço do petróleo mais altos mas recuo da commodity no médio prazo deve diminuir a pressão política",
+            "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-itau-bba-reitera-recomendacao-de-compra-e-diz-que-pressao-sobre-politica-de-precos-ja-alcancou-pico/",
+            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2022/05/GettyImages-1235897081.jpg?fit=1024%2C683&quality=70&strip=all",
+            "publishedAt": "2022-06-27T16:51:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": null,
+            "title": "Watch: Joe Biden Walks Up To PM Modi At G-7, And Then...",
+            "description": "Just as Prime Minister Narendra Modi was getting ready for a group picture at the G7 summit, US President Joe Biden made his way to the Indian leader, tapped him on the shoulders, and the cameras captured the moment and the camaraderie on display.",
+            "url": "https://www.ndtv.com/india-news/watch-joe-biden-walks-up-to-pm-modi-at-g-7-and-then-3105866",
+            "urlToImage": "https://c.ndtvimg.com/2022-06/d9idolgc_modi-biden-650_625x300_27_June_22.jpg",
+            "publishedAt": "2022-06-27T16:42:43+00:00",
+            "content": "PM Modi, Joe Biden anapped at the G7 summit\r\nJust as Prime Minister Narendra Modi was getting ready for a group picture at the G7 summit, US President Joe Biden made his way to the Indian leader, tap… [+1041 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+            "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+            "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213159,width-1070,height-580,imgsize-134672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T03:54:00Z",
+            "content": null
+        }
+    ]
+}
